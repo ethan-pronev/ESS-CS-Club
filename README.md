@@ -6,6 +6,6 @@ Includes problems from:
   DMOPG,
   ECOO,
   DMPG,
-  and others
+  and others.
 
 For my own reference, students in the Erindale CS club, or anyone else interested in competitive programming.
