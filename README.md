@@ -1,5 +1,6 @@
-# Competitive Programming Solutions in C++
+# Erindale CS Club - Competitive Programming in C++
 Repository for many of my solutions to DMOJ problems.
+Also contains powerpoint lessons used for teaching concepts in competitive programming.
 Includes problems from:
   CCC/CCO
   DMOPC
@@ -7,4 +8,4 @@ Includes problems from:
   DMPG
   and others
 
-Mainly for my own reference but also to show that I'm not completely useless at coding.
+For my own reference as well as students in the Erindale CS Club.
