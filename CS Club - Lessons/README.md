@@ -1,0 +1,1 @@
+I do NOT take any credit creating these powerpoints. They were made by William Wen of PETCS. They have been provided to me as an additional resource for my own reference. I only take certain concepts as inspiration from these when creating lessons for the Erindale CS Club.
